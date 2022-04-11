@@ -78,7 +78,9 @@ function menu() {
             </div>
           </div>
           
-        <Slider></Slider>
+        <Slider name= "X-Offset"></Slider>
+        <Slider name= "Y-Offset"></Slider>
+        <Slider name= "Blur Radius"></Slider>
         <Colorpicker></Colorpicker>
         </div>
 
